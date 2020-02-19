@@ -1,7 +1,1 @@
-The program uses the professor's 1.08 code.
-
 The program can be run with ./rlg327
-
-The programs adds additional functionality with w(wear item), t(take off item), d(drop), x(remove item), i(inventory), e(equipment)
-
-Could not get I(inspect) to work
